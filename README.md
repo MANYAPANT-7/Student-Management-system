@@ -97,5 +97,5 @@ Create a graphical user interface (GUI) for better user experience.
 Contributions are welcome! If you have suggestions for improvements or additional features, please submit a pull request or open an issue on the GitHub repository.
 
 ### License
-This project is open-source and available under the MIT License.
+This project is open-source and available under the [MIT License](LICENSE).
 
